@@ -1,5 +1,5 @@
 # docker-ubuntu-jdk8
-Docker image with the latest JDK 8 on latest Ubuntu official image
+Docker image with the latest Oracle JDK 8 on Ubuntu's `latest` official image
 
 ## JDK Installation
 
